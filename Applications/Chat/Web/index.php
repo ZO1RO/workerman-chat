@@ -184,7 +184,7 @@
 	           <div class="thumbnail">
                    <div class="caption" id="userlist"></div>
                </div>
-               <a href="http://workerman.net:8383" target="_blank"><img style="width:252px;margin-left:5px;" src="/img/workerman-todpole.png"></a>
+               <img style="width:252px;margin-left:5px;" src="/img/workerman-todpole.jpg">
 	        </div>
 	    </div>
     </div>
